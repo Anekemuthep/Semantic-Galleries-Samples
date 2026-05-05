@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam
 
 ### 3. Semantic Site 3
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse. added info.
 
 <!-- Link -->
 <!-- [Ver sitio](https://tu-link-aqui.com) -->
