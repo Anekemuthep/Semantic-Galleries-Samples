@@ -17,7 +17,7 @@ Mientras tanto, aquí puedes ver algunas muestras de sitios construidos con Zyko
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 Link
-[Ver sitio](https://stackblitz.com/edit/stackblitz-starters-udiv5vcl?embed=1&file=index.html&hideNavigation=1)
+[Ver sitio](https://stackblitz.com/edit/stackblitz-starters-udiv5vcl?embed=1&file=index.html&hideExplorer=1&view=preview)
 
 <!-- Imagen -->
 <!-- ![Preview Semantic Site 1](ruta/a/imagen1.png) -->
